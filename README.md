@@ -11,7 +11,10 @@ NS.nl shows train delays like `+12` next to the scheduled time `10:00`, requirin
 This script automatically calculates and displays the actual time:
 
 - **Before:** `10:00 +12`
+  <img width="1677" height="847" alt="image" src="https://github.com/user-attachments/assets/e97c1424-acba-401b-bcbf-d4272e565b38" />
+
 - **After:** `10:00 +12 (10:12)`
+  <img width="1657" height="894" alt="image" src="https://github.com/user-attachments/assets/3e373742-3644-42e6-a5dd-98431df9473f" />
 
 ## Installation
 
