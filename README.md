@@ -30,12 +30,6 @@ This script automatically calculates and displays the actual time:
 - Handles both positive delays (+12) and early arrivals (-5)
 - Automatically updates when navigating between trips
 
-## Screenshot
-
-| Before | After |
-|--------|-------|
-| `09:46 +32` | `09:46 +32 (10:18)` |
-
 ## License
 
 MIT
